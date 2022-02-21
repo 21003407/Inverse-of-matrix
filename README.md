@@ -17,9 +17,6 @@ Display the result.
 ## PROGRAM:
 
 ~~~
-# To write  a python program to find the inverse of a nested array.
-# Developed by : Ragul A C
-# Register Number : 212221240042
 import numpy as np
 l1,l2=[],[]
 r=int(input())
